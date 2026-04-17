@@ -1,2 +1,8 @@
-# python-mini-projects
-A collection of my Python mini projects - calculator, games, and more
+# Python Mini Projects
+
+## Projects
+- **Calculator** - A simple calculator with basic operations
+
+## How to run
+```bash
+python calculator/calculator.py
